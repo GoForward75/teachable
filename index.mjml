@@ -1,0 +1,138 @@
+<mjml>
+   <mj-head>
+      <mj-title>Teachable Newsletter</mj-title>
+      
+   </mj-head>
+   <!-- Start Content -->
+   <mj-body background-color="#e2e2e2">
+
+   <!-- Logo -->
+      <mj-section padding="0" background-color="#ffffff">
+         <mj-column>
+           <mj-image src="https://i.ibb.co/10Mk5fw/logo.png" alt="teachable logo"  align="center" padding="0" /> 
+         </mj-column>
+      </mj-section>
+
+      <!-- Intro text -->
+      <mj-section background-color="#ffffff">
+         <mj-column width="80%" padding-top="0" padding-bottom="0">
+            <mj-text font-family="Times New Roman" font-size="18px" font-weight="bold" color="#000000" align="center">
+               In The Know
+            </mj-text>
+            <mj-text align="center" color="#222222" font-size="15px" font-family="Open Sans, Helvetica Neue" line-height="20px" padding="0">
+               <p>Volume 11 | November</p>
+               <p> Your go-to weekly guide  for tips on scaling your business,  building a lasting brand, and must-know industry news. Plus, get exclusive invites to events, webinars, and more.</p>
+            </mj-text>
+           
+         </mj-column>
+      </mj-section>
+
+   <!-- Hero -->
+   <mj-section background-color="#1b4942" padding-top="30px">
+      <mj-column width="90%" >
+         <mj-image src="https://i.ibb.co/fYhHbWY/hero.jpg" alt="smiling man working on a laptop" padding="0" />
+      </mj-column>
+   </mj-section>
+
+   <!-- Main text -->
+   <mj-section background-color="#1b4942" padding="0" padding-bottom="20px">
+      <mj-column width="600px" padding-left="20px" padding-right="20px">
+         <mj-text color="#c8e3d8" font-size="19px" align="center">
+            On the blog
+         </mj-text>
+         <mj-text align="center" color="#c8e3d8" font-size="15px" line-height="20px">
+            Any entrepreneur knows the holiday season may as well be familiar with the shopping season. Because we do not want you to miss an opportunity to reach a new audience, launch a new course, and crush your sales goals  this year, we're sharing seven actionable tips for marketing and selling your online course this Black Friday. Get everything you need to start planning and making money right now in <a href="www.example/com"  style="color:#c8e3d8; text-decoration:underline;">our latest article.</a>
+         </mj-text>
+      </mj-column>
+   </mj-section>
+
+      <!-- Hero 2 -->
+   <mj-section background-color="#ffffff" padding-top="30px">
+      <mj-column width="90%" >
+         <mj-image src="https://i.ibb.co/1zhzZ0d/lady-with-laptop.png" alt="smiling man working on a laptop" padding="0" />
+      </mj-column>
+   </mj-section>
+  <!-- Main text 2  -->
+<mj-section background-color="#ffffff" padding="0" padding-bottom="20px">
+      <mj-column width="600px" padding-left="10px" padding-right="10px">
+         <mj-text color="#222222" font-size="18px" align="center">
+            Train your brain
+         </mj-text>
+         <mj-text align="center" color="#222222" font-size="15px" line-height="21px">
+            "I am making a positive difference in my student's life." <br>
+            "I am making a positive difference in my student's life." <br>
+            "I am making a positive difference in my student's life." <br> <br>
+            Not only is the above statement true, but doesn't it also feel great to say out loud? Welcome to the wonderful world of
+            <a href="www.example/com"  style="color:#222222; text-decoration:underline;">positive affirmations.</a>  <br> We dive into the science behind affirmations and explore how they can help you achieve your business goals, no matter how big or small they may be.
+         </mj-text>
+      </mj-column>
+   </mj-section>
+
+    <!-- Banner 2 -->
+   <mj-section background-color="#c8e3d8" padding="0">
+      <mj-column width="90%" >
+         <mj-image src="https://i.ibb.co/3T6KGRy/chef.jpg" alt="a chef at work" padding="0"  />
+      </mj-column>
+   </mj-section>
+  <!-- Main text 2  -->
+<mj-section background-color="#c8e3d8" padding-top="20px" padding-bottom="20px" padding-left="0" padding-right="0">
+      <mj-column width="600px" padding-left="20px" padding-right="20px">
+         <mj-text color="#222222" font-size="18px" align="center">
+            Product updates
+         </mj-text>
+         <mj-text align="center" color="#222222" font-size="14px" line-height="22px">
+            According to the calendar, the year is almost over, but that doesn't mean we're slowing down anytime soon. Last month, we released a few more updates including coaching product reviews, manual lecture completion for students, Teachable Payments availability in Germany, and even more. Get the full scope of what we rolled put- and see what's ahead- over
+            <a href="www.example/com"  style="color:#222222; text-decoration:underline;">on the blog.</a>
+         </mj-text>
+      </mj-column>
+   </mj-section>
+
+     <!-- Closing text  -->
+<mj-section background-color="#ffffff" padding="0" padding-bottom="30px" padding-top="20px">
+      <mj-column>
+         <mj-text color="#222222" font-size="18px" align="center">
+            <strong>Tip of the week</strong>
+         </mj-text>
+         <mj-text align="center" color="#222222" font-size="16px" line-height="22px" padding-left="20px" padding-right="20px" padding-bottom="0">
+            Feeling stuck with your Instagram strategy? Consider the 4:3:2 method from Social Media Examiner to tell a story every nine squares. Try:
+            </mj-text>
+            <mj-text align="center" color="#222222" font-size="16px" line-height="22px" padding-left="40px" padding-right="40px">
+            <ul padding="0" align="left">
+               <li>Four posts that add value and help ypur ideal client</li>
+               <li>Three posts a that create connections with your ideal client</li>
+               <li>Two posts that promote or sell your services</li>
+            </ul>
+            </mj-text>
+            <mj-text  align="center" color="#222222" font-size="16px" line-height="22px" padding-left="20px" padding-right="20px">
+               Yes, sales are important, but there's more to establishing close bonds with your audience. Make sure you're dedicating a good chunk of time to getting to know and building a solid relationship with the people who follow you. This way, when you're ready to sell, you'll have an engaged audience ready and waiting to buy your product.
+         
+         </mj-text>
+      </mj-column>
+   </mj-section>
+
+   <!-- footer -->
+   <mj-section background-color="#555555">
+      <mj-column width="500px">
+         <mj-image src="https://i.ibb.co/d28zTCL/logo2.png" alt="teachable logo" align="center" width="120px" />
+         <mj-text color="#c8e3d8" align="center" font-size="12px" line-height="18px">
+            Copyright 2022 Teachable, Inc. All Rights Reserved <br>470 Park Ave South 6th Floor New York, NY 10016 <br>
+            <a href="www.google.com" style="color:#c8e3d8;text-decoration:underline;">Unsubscribe</a> from emails at an time by <a href="www.google.com" style="text-decoration:underline;color:#c8e3d8;">clicking here.</a>
+         </mj-text>
+      </mj-column>
+   </mj-section>
+   <mj-section background-color="#555555" padding="0">
+      <mj-column width="500px">
+         <mj-text align="center">
+            <img src="https://i.ibb.co/hL9Bgx8/facebook.png" alt="facebook" width="32px">
+            <img src="https://i.ibb.co/HVbMf22/twitter.png" alt="facebook" width="32px">
+            <img src="https://i.ibb.co/WcL3GFP/instagram.png" alt="facebook" width="32px">
+            <img src="https://i.ibb.co/Tk0tpPR/youtube.png" alt="facebook" width="32px">
+            <img src="https://i.ibb.co/sF3KqTP/pinterest.png" alt="facebook" width="32px">
+            <img src="https://i.ibb.co/zJ7gGqG/linkedin.png" alt="facebook" width="32px">
+         </mj-text>
+      </mj-column>
+   </mj-section>
+
+   </mj-body>
+   <!-- End Content -->
+</mjml>
